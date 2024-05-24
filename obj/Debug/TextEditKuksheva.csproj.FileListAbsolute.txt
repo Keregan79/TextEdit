@@ -1,0 +1,12 @@
+C:\Users\29432974\Desktop\TextEditKuksheva\bin\Debug\TextEditKuksheva.exe.config
+C:\Users\29432974\Desktop\TextEditKuksheva\bin\Debug\TextEditKuksheva.exe
+C:\Users\29432974\Desktop\TextEditKuksheva\bin\Debug\TextEditKuksheva.pdb
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.csproj.AssemblyReference.cache
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.Form1.resources
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.Properties.Resources.resources
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.csproj.GenerateResource.cache
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.csproj.CoreCompileInputs.cache
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.exe
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.pdb
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.AboutBox1.resources
+C:\Users\29432974\Desktop\TextEditKuksheva\obj\Debug\TextEditKuksheva.g.resources
